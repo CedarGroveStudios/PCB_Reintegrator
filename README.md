@@ -2,6 +2,8 @@
 
 ### Convert Class-D audio signal to an unbalanced audio line level.
 
+A mono Class-D audio to unbalanced audio line signal output converter. This version can act as a backpack for the Adafruit I2S 3watt audio amplifier.
+
 [The Reintegrator board schematic](https://github.com/CedarGroveStudios/PCB_Reintegrator/blob/main/PCB/breakout.pdf)
 
 
