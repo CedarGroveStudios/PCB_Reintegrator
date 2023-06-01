@@ -7,8 +7,7 @@
 
 
 OSH Park:
-
-https://oshpark.com/shared_projects/qFvEU3Bn
+[https://oshpark.com/shared_projects/qFvEU3Bn](https://oshpark.com/shared_projects/iI4kd3TW)
 
 
 ![The Reintegrator glamour photo](https://github.com/CedarGroveStudios/PCB_Reintegrator/blob/main/media/reintegrator_top_glamour.png)
